@@ -2,4 +2,4 @@
 
 Built a Chat app with React Front-end and Firebase Backend
 
-https://tommytran8.github.io/firebase-chat-app/
+App not deployed
